@@ -1,4 +1,4 @@
-package com.bezkoder.spring.thymeleaf.repository;
+package com.raghu.spring.thymeleaf.repository;
 
 import java.util.List;
 
@@ -9,7 +9,7 @@ import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
 
-import com.bezkoder.spring.thymeleaf.entity.Tutorial;
+import com.raghu.spring.thymeleaf.entity.Tutorial;
 
 @Repository
 @Transactional

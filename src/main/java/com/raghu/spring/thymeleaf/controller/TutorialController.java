@@ -1,4 +1,4 @@
-package com.bezkoder.spring.thymeleaf.controller;
+package com.raghu.spring.thymeleaf.controller;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
-import com.bezkoder.spring.thymeleaf.entity.Tutorial;
-import com.bezkoder.spring.thymeleaf.repository.TutorialRepository;
+import com.raghu.spring.thymeleaf.entity.Tutorial;
+import com.raghu.spring.thymeleaf.repository.TutorialRepository;
 
 @Controller
 public class TutorialController {

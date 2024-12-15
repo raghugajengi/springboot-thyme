@@ -1,4 +1,4 @@
-package com.bezkoder.spring.thymeleaf.entity;
+package com.raghu.spring.thymeleaf.entity;
 
 import javax.persistence.*;
 

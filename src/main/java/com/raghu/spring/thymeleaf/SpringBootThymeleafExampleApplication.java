@@ -1,4 +1,4 @@
-package com.bezkoder.spring.thymeleaf;
+package com.raghu.spring.thymeleaf;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
